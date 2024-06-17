@@ -1,8 +1,8 @@
-cs2023s2 Pages Assessment
+cs2024s2 Pages Assessment
 =====================
 
 Involves
- * cs2023s2
+ * cs2024s2
  * git
  * GitHub
  * SSH
